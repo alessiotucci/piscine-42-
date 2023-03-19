@@ -1,3 +1,5 @@
+[![atucci's 42 stats](https://badge.mediaplus.ma/darkblue/atucci?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 # piscine-42-
 the files I managed to save during the piscine 
 
