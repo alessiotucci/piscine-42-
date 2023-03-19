@@ -1,18 +1,9 @@
 # This is my stats during November 2023 piscine
 [![atucci's 42 stats](https://badge42.vercel.app/api/v2/clfazuqz3001108jxp6bw1lum/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-# piscine-42-
-the files I managed to save during the piscine 
 
-| function name | Description | youtube links |
- | ----------------------------- | ------------------------------------------------- | ------------------------------------------------------- |
-   | [`C02 piscine`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02) |  | video|
- | [`C03 piscine`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIleC03) | description | video|
- | [`C04 piscine`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIlec04) | description | video|
-  | [`exam piscine`](https://github.com/alessiotucci/piscine-42-/tree/main/exam%20exercise) | description | video| 
-  
-  # C02
-  | function name | Description | youtube links |
+  # [C02 piscine](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02)
+ | function name | Description | youtube links |
  | ----------------------------- | ------------------------------------------------- | ------------------------------------------------------- |
  | [`00 ft_strcpy`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02) |The strncpy() function copies count characters of string2 to string1 . If count is less than or equal to the length of string2 , a null character (\0) is not appended to the copied string. If count is greater than the length of string2 , the string1 result is padded with null characters (\0) up to length count.| video|
  | [`01 ft_strncpy`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIleC03) | description | video|
@@ -26,7 +17,7 @@ the files I managed to save during the piscine
  | [`09 ft_strcapitalize`](https://github.com/alessiotucci/piscine-42-/tree/main/exam%20exercise) | description | video| 
   
   
-  # C03
+  # [C03 piscine](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIleC03)
   | function name | Description | youtube links |
  | ----------------------------- | ------------------------------------------------- | ------------------------------------------------------- |
  | [`00 ft_strcmp`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02) |The strncmp() built-in function compares at most the first count characters of the string pointed to by string1 to the string pointed to by string2. The string arguments to the function should contain a NULL character ( \0 ) marking the end of the string.| video|
@@ -36,7 +27,7 @@ the files I managed to save during the piscine
  | [`04 ft_strstr`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIlec04) | description | video|
  | [`05 ft_strlcat`](https://github.com/alessiotucci/piscine-42-/tree/main/exam%20exercise) | description | video| 
   
-  # C04
+  # [C04 piscine](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIlec04)
   | function name | Description | youtube links |
  | ----------------------------- | ------------------------------------------------- | ------------------------------------------------------- |
  | [`00 ft_strlen`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02) |  | video|
@@ -44,7 +35,7 @@ the files I managed to save during the piscine
  | [`02 ft_putnbr`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIlec04) | description | video|
  | [`03 ft_atoi`](https://github.com/alessiotucci/piscine-42-/tree/main/exam%20exercise) |The atoi() function converts an integer value from a string of characters. The input string is a character string that may be turned into a return type numeric value. The function stops reading the input string when it encounters the first character that it does not consider part of a number.| video| 
   
-  # exams files
+  # [exam piscine](https://github.com/alessiotucci/piscine-42-/tree/main/exam%20exercise)
   
   | function name | Description | youtube links |
  | ----------------------------- | ------------------------------------------------- | ------------------------------------------------------- |
