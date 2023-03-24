@@ -42,7 +42,7 @@
  | [`aff_a`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02) |  | video|
  | [`aff_last_param`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIleC03) | description | video|
  | [`first_word`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIlec04) | description | video|
- | [`fizz_buzz`](https://github.com/alessiotucci/piscine-42-/tree/main/exam%20exercise) |The FizzBuzz problem is a classic test given in coding interviews. The task is simple: Print integers one-to-N, but print “Fizz” if an integer is divisible by three, “Buzz” if an integer is divisible by five, and “FizzBuzz” if an integer is divisible by both three and five.| video| 
+ | [`fizz_buzz`](https://github.com/alessiotucci/piscine-42-/tree/main/exam%20exercise/fizz_buzz) |The FizzBuzz problem is a classic test given in coding interviews. The task is simple: Print integers one-to-N, but print “Fizz” if an integer is divisible by three, “Buzz” if an integer is divisible by five, and “FizzBuzz” if an integer is divisible by both three and five.| video| 
  | [`ft_countdown`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02) |  | video|
  | [`ft_print_number`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIleC03) | description | video|
  | [`ft_strcpy`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIlec04) | description | video|
