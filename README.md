@@ -5,7 +5,7 @@
   # [C02 piscine](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02)
  | function name | Description | youtube links |
  | ----------------------------- | ------------------------------------------------- | ------------------------------------------------------- |
- | [`00 ft_strcpy`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02) |The strncpy() function copies count characters of string2 to string1 . If count is less than or equal to the length of string2 , a null character (\0) is not appended to the copied string. If count is greater than the length of string2 , the string1 result is padded with null characters (\0) up to length count.| video|
+ | [`00 ft_strcpy`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02/ex00%20copy) |The strncpy() function copies count characters of string2 to string1 . If count is less than or equal to the length of string2 , a null character (\0) is not appended to the copied string. If count is greater than the length of string2 , the string1 result is padded with null characters (\0) up to length count.| video|
  | [`01 ft_strncpy`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIleC03) | description | video|
  | [`02 ft_str_is_alpha`](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFIlec04) | description | video|
  | [`03 ft_str_is_numberic`](https://github.com/alessiotucci/piscine-42-/tree/main/exam%20exercise) | description | video|
