@@ -1,6 +1,11 @@
 # This is my stats during November 2023 piscine
 [![atucci's 42 stats](https://badge42.vercel.app/api/v2/clfazuqz3001108jxp6bw1lum/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
+<br />
+
+<img width="498" alt="image" src="https://github.com/alessiotucci/piscine-42-/assets/116757689/42a84951-d67d-4b8c-ace4-1c387c7f5054">
+
+
 
   # [C02 piscine](https://github.com/alessiotucci/piscine-42-/tree/main/mainFiles/mainFileC02)
  | function name | Description | youtube links |
